@@ -1,2 +1,2 @@
-# BoardAndTiles
-Multipurspose 3D printed board and its elementes: tiles etc.
+# RobotBoard
+Plansza dla robotów 
