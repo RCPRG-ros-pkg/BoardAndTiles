@@ -2,36 +2,36 @@
 
 How many?
 
-base.stl 		1
+base.stl 		x1
 
-base_engine.stl 	1
+base_engine.stl 	x1
 
-bearing_case 		1
+bearing_case 		x1
 
-bearing_case_engine 	1
+bearing_case_engine 	x1
 
-drive_gear 		1
+drive_gear 		x1
 
-driven_gear 		1
+driven_gear 		x1
 
-post 			1
+post 			x1
 
-post_engine 		1
+post_engine 		x1
 
-shaft 			1
+shaft 			x1
 
-wall 			1
+wall 			x1
 
-bearing_axis 		2
+bearing_axis 		x2
 
-bearings_holder 	2
+bearings_holder 	x2
 
-zeger_ring 		2
+zeger_ring 		x2
 
-belt_lock_1 		2
+belt_lock_1 		x2
 
-belt_lock_2 		2
+belt_lock_2 		x2
 
-bearings_pin 		4
+bearings_pin 		x4
 
-lock 			8
+lock 			x8
