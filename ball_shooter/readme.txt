@@ -1,0 +1,1 @@
+Don't print before assembly verification
