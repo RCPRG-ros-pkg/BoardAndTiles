@@ -1,0 +1,10 @@
+axle x2
+base x2
+base_mirr x2
+bearing_mount x2
+bearing_mount_mirr x1
+Spur gear 26T x1
+spur gear 38T x1
+motor_mount x1
+sprocket x4
+track_element x40
